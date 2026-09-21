@@ -1,0 +1,13 @@
+    body{
+    font-display: auto;
+        background-color:bisque;
+        color:lightslategray;
+        text-align: center;
+        background-image: -moz-linear-gradient();
+    }
+    button{
+        text-align: center;
+        border-radius: 100px;
+        width: 100px;
+        
+    }
